@@ -62,25 +62,18 @@
 ## 📁 Структура проекта
 
 developer-s_portfolio_demo_Alexey/
-│
-├── 📄 index.html # Главная страница
-├── 🎨 style.css # Все стили проекта
-├── ⚙️ script.js # JavaScript функционал
-├── 📖 README.md # Документация
-│
-├── 📂 images/ # Папка с изображениями
-│ └── (изображения для сайта)
-│
-└── 📂 screenshots/ # Папка со скриншотами
-├── desktop.jpg
-├── tablet.jpg
-└── mobile.jpg
+- `index.html` — Главная страница  
+- `style.css` — Все стили проекта  
+- `script.js` — JavaScript функционал  
+- `README.md` — Документация  
+- `images/` — Папка с изображениями для сайта (фото, иконки)  
+- `screenshots/` — Папка со скриншотами для README 
 
 ---
 
 ### Скриншоты с адаптивностью на разных устройствах
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td align="center"><strong>🖥 Десктоп (1200px+)</strong></td>
