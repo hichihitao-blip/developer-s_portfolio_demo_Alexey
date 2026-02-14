@@ -73,7 +73,7 @@ developer-s_portfolio_demo_Alexey/
 
 ### Скриншоты с адаптивностью на разных устройствах
 
-<div align="left">
+<div>
   <table>
     <tr>
       <td align="center"><strong>🖥 Десктоп (1200px+)</strong></td>
@@ -81,9 +81,9 @@ developer-s_portfolio_demo_Alexey/
       <td align="center"><strong>📱 Мобильный (375px)</strong></td>
     </tr>
     <tr>
-      <td><img src="screenshots/desktop.jpg" width="100%"></td>
-      <td><img src="screenshots/tablet.jpg" width="100%"></td>
-      <td><img src="screenshots/mobile.jpg" width="100%"></td>
+      <td><img src="screenshots/desktop.png" width="100%"></td>
+      <td><img src="screenshots/tablet.png" width="100%"></td>
+      <td><img src="screenshots/mobile.png" width="100%"></td>
     </tr>
   </table>
 </div>
@@ -113,7 +113,7 @@ developer-s_portfolio_demo_Alexey/
 
 <div align="center">
 
-📧 **Email:** [liza.lazarewa@yandex.ru](mailto:liza.lazarewa@yandex.ru)  
-🐙 **GitHub:** [@hichihitao-blip](https://github.com/hichihitao-blip)
+ **Email:** [liza.lazarewa@yandex.ru](mailto:liza.lazarewa@yandex.ru)  
+ **GitHub:** [@hichihitao-blip](https://github.com/hichihitao-blip)
 
 </div> 
